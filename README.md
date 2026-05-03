@@ -1,27 +1,32 @@
-# Repositório de Atividades Java - Curso Next Education Oracle🧡💻
-Este repositório contém as atividades realizadas durante o curso de Java oferecido pela Next Education em parceria com a Oracle. O curso abrange conceitos fundamentais e avançados da linguagem de programação Java, fornecendo uma base sólida para o desenvolvimento de aplicativos.
+# Java Activities Repository - Next Education Oracle Course 🧡💻
+This repository contains the activities completed during the Java course offered by Next Education in partnership with Oracle. The course covers fundamental and advanced concepts of the Java programming language, providing a solid foundation for application development.
 
-## Estrutura do Repositório
+## Repository Structure
 
-O repositório está organizado da seguinte maneira:
+The repository is organized as follows:
 
-- **/atividade1**: Contém os arquivos relacionados à primeira atividade do curso.
-- **/atividade2**: Arquivos correspondentes à segunda atividade do curso.
-- **/atividade3**: Documentação e código da terceira atividade do curso.
-- **/projeto-final**: Todos os arquivos relacionados ao projeto final do curso.
+- **/activity1**: Contains the files related to the first activity of the course.
 
-Cada diretório possui sua própria estrutura de arquivos, incluindo código-fonte, arquivos de documentação e instruções, quando necessário.
+- **/activity2**: Files corresponding to the second activity of the course.
 
-## Como Utilizar
+- **/activity3**: Documentation and code for the third activity of the course.
 
-Para utilizar este repositório, siga estas etapas:
+- **/final-project**: All files related to the final project of the course.
 
-1. Clone o repositório para o seu ambiente local utilizando o comando `git clone`.
-2. Navegue até o diretório relevante para a atividade que deseja revisar.
-3. Explore os arquivos de código-fonte, documentação e instruções conforme necessário.
-4. Se necessário, compile e execute os programas Java de acordo com as instruções fornecidas.
+Each directory has its own file structure, including source code, documentation files, and instructions, when necessary.
 
+## How to Use
 
-## Licença
+To use this repository, follow these steps:
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+1. Clone the repository to your local environment using the `git clone` command.
+
+2. Navigate to the directory relevant to the activity you wish to review.
+
+3. Explore the source code files, documentation, and instructions as needed.
+
+4. If necessary, compile and run the Java programs according to the instructions provided.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
