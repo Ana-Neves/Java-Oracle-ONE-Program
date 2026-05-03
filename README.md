@@ -1,4 +1,4 @@
-# Java Activities Repository - Next Education Oracle Course 🧡💻
+# Java Activities Repository - Oracle Next Education Course 🧡💻
 This repository contains the activities completed during the Java course offered by Next Education in partnership with Oracle. The course covers fundamental and advanced concepts of the Java programming language, providing a solid foundation for application development.
 
 ## Repository Structure
